@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_GPV
+	bool "gpv"
+	default n
+	---help---
+		Enable support for gpv
